@@ -24,8 +24,8 @@ I build practical, secure, and user-focused software and hardware. for both mobi
 ### Mobile & Desktop & Frontend Development
 
 - react native (Mobile App Development)
-- electron 
-- Full-Stack Web Developmenthttps://www.linkedin.com/in/wasimborhot/
+- electron (desktop)
+- Full-Stack Web Development
 - Responsive Design
 
 ### DevOps & Infrastructure
