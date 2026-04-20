@@ -1,4 +1,17 @@
 ## Hi there 👋
+# Wasim Borhot
+
+> Full-Stack Developer · AI Engineer · Devopps Engineer · cyber security
+
+I build practical, secure, and user-focused software and hardware. for both mobile ans desktop,  I enjoy turning ideas into working products
+
+---
+
+## Technical Skills
+
+### Tech & Tools
+
+
 
 <!--
 **wasim822/wasim822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
