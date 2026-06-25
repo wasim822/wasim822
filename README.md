@@ -3,7 +3,7 @@
 
 > Full-Stack Developer · AI Engineer · Devopps Engineer · cyber security
 
-I build practical, secure, and user-focused software and hardware. for both mobile ans desktop,  I enjoy turning ideas into working products
+I build practical, secure, and user-focused software and hardware for both mobile and desktop,  I enjoy turning ideas into working products
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-Wasim%20Borhot-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wasimborhot/)
 [![Static Badge](https://img.shields.io/badge/Portfolio-Wasim%20Borhot-%23007AFF?style=for-the-badge&logo=gnuicecat)]()
